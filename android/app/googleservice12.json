@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "936582413601",
+    "project_id": "mybevy-1c0cf",
+    "storage_bucket": "mybevy-1c0cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936582413601:android:b048b316a3f809ba801260",
+        "android_client_info": {
+          "package_name": "in.mybevy.grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936582413601-ptclor7vm6jj90lmce58h1p8pe6ep4l1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.mybevy.grocery",
+            "certificate_hash": "f53bfae229f6061e29bdbdbfab0cb7bf712df607"
+          }
+        },
+        {
+          "client_id": "936582413601-79k6ml03lbi1hfit7ec4t98hj2tsrvsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDphFZ0J9nVWIwahdjQ34yqvuDXZMq84UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936582413601-79k6ml03lbi1hfit7ec4t98hj2tsrvsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
